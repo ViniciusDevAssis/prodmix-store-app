@@ -88,7 +88,7 @@ export default function DashboardPage() {
               Atualizar dados da loja
             </h3>
             <Link
-              href="/store/update"
+              href="/stores"
               className="mt-2 inline-block px-4 py-2 bg-[#007373] text-white rounded hover:bg-[#005f5f] transition"
             >
               Ir
